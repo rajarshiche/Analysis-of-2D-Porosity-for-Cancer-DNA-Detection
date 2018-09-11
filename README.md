@@ -1,1 +1,1 @@
-# Analysis of 2D ring porosity of evaporated droplets of DNA+colloidal tracers for Cancer DNA Detection
+# Analysis of 2D ring Porosity of Evaporated Droplets of DNA+colloidal Tracers for Cancer DNA Detection
