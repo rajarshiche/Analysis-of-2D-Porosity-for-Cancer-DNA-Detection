@@ -1,4 +1,4 @@
-# Analysis of 2D ring Porosity of Evaporated Droplets of DNA+colloidal Tracers for Cancer DNA Detection (source publication: https://pubs.acs.org/doi/abs/10.1021/acsami.7b13675)
+# Analysis of 2D ring Porosity of Evaporated Droplets of DNA+colloidal Tracers for Cancer DNA Detection 
 
 The matlab code files are HumanDNAPorosityGreenChannel.m and HumanDNAPorosityRedChannel.m
 
@@ -7,3 +7,5 @@ The matlab code files are HumanDNAPorosityGreenChannel.m and HumanDNAPorosityRed
 "Experiment_m_lambda DNA_0.5 nM_1 um cPSL_10-4 vol fr_2 mM NaCl_1007_ch00.jpg" is a sample image containing methylated bacteriophage lambda DNA. Please import this image in HumanDNAPorosityGreenChannel.m by adding proper path and run the interactive program to generate the ROI image file "croppedlambdaDNAwithNaCl.jpg". The 2D porosity of the ring would be generated as the output of the program.
 
  Any custom images can be analyzed for porosity/ texture as per examples 2 & 3 above.
+ 
+ Please cite this publication https://pubs.acs.org/doi/abs/10.1021/acsami.7b13675 if the above analysis/ method is useful
